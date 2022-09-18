@@ -1,6 +1,6 @@
 ## Learning node.js and express with MySql
 ---
-### Technology
+
 - #### **Download and install  [Node.js](https://nodejs.org/en/download/)**.
 - #### **Download and install [MySql](https://dev.mysql.com/downloads/windows/installer/8.0.html)**
 -  ##### Craete database called bookstore
