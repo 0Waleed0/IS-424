@@ -1,11 +1,11 @@
-# Learning node.js and express with MySql
+## Learning node.js and express with MySql
 ---
-## Technology
-- ### **Download and install  [Node.js](https://nodejs.org/en/download/)**.
-- ### **Download and install [MySql](https://dev.mysql.com/downloads/windows/installer/8.0.html)**
--  #### Craete database called bookstore
--  #### Create table called book {id char(3), title varchar(45), year char(4), auther_name varchar(45)}
--  #### insert the following data 
+### Technology
+- #### **Download and install  [Node.js](https://nodejs.org/en/download/)**.
+- #### **Download and install [MySql](https://dev.mysql.com/downloads/windows/installer/8.0.html)**
+-  ##### Craete database called bookstore
+-  ##### Create table called book {id char(3), title varchar(45), year char(4), auther_name varchar(45)}
+-  ##### insert the following data 
 
 ```sql
 INSERT INTO `bookstore`.`book` (`id`, `title`, `year`, `auther_name`) VALUES ('1', 'Neural Networks', '2005', 'Milan Hajek ');
@@ -15,7 +15,7 @@ INSERT INTO `bookstore`.`book` (`id`, `title`, `year`, `auther_name`) VALUES ('4
 INSERT INTO `bookstore`.`book` (`id`, `title`, `year`, `auther_name`) VALUES ('5', 'Data Structures and Algorithms', '2017', 'Catherine Leung');
 ```
 
-# Now Open the folder in VSCode , Open The Terminal And write the following : 
+## Now Open the folder in VSCode , Open The Terminal And write the following : 
 
 - **install express**
 
